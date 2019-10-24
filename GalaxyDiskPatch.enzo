@@ -1,4 +1,4 @@
-ProblemType               =  90       // Galaxy Disk Patch test problem
+ProblemType               =  93       // Galaxy Disk Patch test problem
 Gamma                     =  1.6666667
 DensityUnits              = 1.67e-29  # m_H
 LengthUnits               = 1.543e+22 #5kpc
